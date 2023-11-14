@@ -9,5 +9,5 @@ body{
 }
 
 main{
-    @apply min-h-screen
+    @apply min-h-screen container mx-auto
 } 
