@@ -4,6 +4,7 @@
 @tailwind utilities;
 
 
+
 body{
     @apply font-openSans text-seasalt bg-gradient-to-b from-eerieblack to-slightblack
 }
@@ -11,3 +12,4 @@ body{
 main{
     @apply min-h-screen container mx-auto
 } 
+
