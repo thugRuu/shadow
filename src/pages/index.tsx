@@ -1,12 +1,12 @@
-import { HorizontalCard } from '@/component/card'
+import { HorizontalCard } from '@/component/Card'
 import Head from 'next/head'
-import Text from '@/component/text'
-import Photo from '@/component/photo'
+import Text from '@/component/Text'
+import Photo from '@/component/Photo'
 // import Slick from '@/component/slick'
-import Topic from '@/component/topic'
-import EditorsPick from '@/component/editorsPick'
-import PopularTags from '@/component/popularTags'
-import Footer from '@/component/footer'
+import Topic from '@/component/Topic'
+import EditorsPick from '@/component/EditorsPick'
+import PopularTags from '@/component/PopularTags'
+import Footer from '@/component/Footer'
 
 export default function Home() {
 	return (

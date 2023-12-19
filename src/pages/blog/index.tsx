@@ -1,4 +1,4 @@
-import { VerticalCard } from '@/component/card'
+import { VerticalCard } from '@/component/Card'
 
 const index = () => {
 	return (

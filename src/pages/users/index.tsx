@@ -1,4 +1,4 @@
-import { AuthShowcase } from "@/component/buttons";
+import { AuthShowcase } from "@/component/Buttons";
 import Head from "next/head";
 
 const UsersInfo = () => {

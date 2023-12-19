@@ -5,10 +5,10 @@ interface ImageProps {
 function SlickPicture({ imageSrc, altText }: ImageProps) {
 	return (
 		<div>
-			<div className='p-2.5 h-64'>
+			<div className='p-2.5 h-64 '>
 				<h3>
 					<img
-						className=' h-72 w-auto object-cover '
+						className=' h-72 w-auto object-cover  '
 						src={imageSrc}
 						alt={altText}
 					></img>
